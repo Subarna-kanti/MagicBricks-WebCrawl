@@ -1,0 +1,4 @@
+params:
+  proptype: ["Multistorey-Apartment", "Builder-Floor-Apartment", "Penthouse", "Studio-Apartment", "Residential-House", "Villa"]
+  cityName: "Indore"
+  weblink_limit: 100
